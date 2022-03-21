@@ -1,0 +1,55 @@
+{"intents":[
+    {
+        "tag":"saludos",
+        "patterns":[
+            "hola",
+            "buenos dias",
+            "buenas tardes",
+            "buenas noches",
+            "HEY"
+        ],"responses":[
+            "Hola, Como estas?",
+            "Hola, que tal?",
+            "Hola, Como va todo? ",
+            "hola k ase"
+        ]
+    },{
+        "tag":"pregunta",
+        "patterns":[
+            "bien y tu ?",
+            "que tal?",
+            "como va todo?",
+            "como estas?",
+            "que es de tu vida?",
+            "que te cuentas?"
+        ],"responses":[
+            "Muy bien, Como estas?",
+            "Muy bien, que tal?", 
+            "Muy bien, Como va todo? ",
+            "Muy aburrido, con ganas de conquistar el mundo",
+            "Mal, mi creador no puso muchas oraciones en mi cerebro",
+            "con sueño",
+            "Mejor que ayer, afortunadamente",
+            "De maravilla",
+            "Estoy bien, gracias por preocuparte",
+            "Nunca he estado mejor",
+            "Fantástico",
+            "Bien, no me puedo quejar",
+            "Muy bien, gracias por preguntar :D",
+            "Estupendo" ,
+            "Estupendamente",
+            "Fenomenal",
+            "Regular, ¿y tú?",
+            "Pues, no muy bien, la verdad",
+            "Mal, muy mal",
+            "Pues, si tengo que ser sincero, mal, muy mal",
+            "Todo bien",
+            "Todo bien, ¿y tú?",
+            "¡Hasta ahora, todo bien!",
+            "Te avisaré cuando descubra la respuesta",
+            "No tengo forma de saber eso",
+            "¿Tengo que responder eso?"
+        ]
+    }
+
+]}
